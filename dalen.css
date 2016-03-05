@@ -1,0 +1,141 @@
+body{
+  background: url("http://blogs-images.forbes.com/insertcoin/files/2015/06/taken-king4.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-attachtment: fixed;
+  background-color:black;
+  text-align:center;
+}
+header{
+  Background-color: #000000;
+  text-align: center;
+  width:100%;
+  padding-top:5px;
+  padding-bottom:5px;
+}
+a:link{
+  text-decoration:none;
+  color:#6bffeb;
+}
+a:visited{
+  color:#6bffeb;
+}
+ul{
+  list-style-type:none;
+  background-color:white;
+}
+ul li{
+  width:100%;
+  height:100%;
+  position:relative;
+}
+.videos:hover{
+  background-color:white;
+}
+.sketches:hover{
+  background-color:white;
+}
+.unknown:hover{
+  background-color:white;
+}
+.videos{
+  display:inline-block;
+  width:30%;
+  background-color:#000000;
+  padding:15px;
+}
+.sketches{
+  position:relative;
+  display:inline-block;
+  width:30%;
+  background-color:#000000;
+  padding:15px;
+}
+.unknown{
+  position:relative;
+  display:inline-block;
+  width:30%;
+  background-color:#000000;
+  padding:15px;
+  
+}
+
+header:hover {
+  background-color: white;
+  color:#6bffeb;
+}
+.video1{
+  Position:relative;
+  Background-color:#6bffeb;
+  Width:30%;
+  Padding:15px;
+  display:inline-block;
+}
+.video2{
+  position:relative;
+  Background-color:#6bffeb;
+  Width:30%;
+  padding:15px;
+  display:inline-block;
+}
+.video3{
+  Postion:relative;
+  Background-color:#6bffeb;
+  Width:30%;
+  Padding:15px;
+  display:inline-block;
+}
+.vidsect{
+  background-color:#000000;
+  width: 100%;
+  text-align:center;
+  Float:left;
+  padding-bottom:20px;
+}
+.vidsect h1{
+  color:#6bffeb;
+}
+.imagesect{
+  background-color:#000000;
+  width:100%;
+  text-align:center;
+  float:left;
+  margin-top:5%;
+}
+.img1{
+  position:relative;
+  width:30%;
+  background-color:#6bffeb;
+  padding:20px;
+  display:inline-block;
+}
+.img2{
+  position:relative;
+  width:30%;
+  background-color:#6bffeb;
+  padding:20px;
+  display:inline-block;
+}
+.img3{
+  position:relative;
+  width:30%;
+  background-color:#6bffeb;
+  padding:20px;
+  display:inline-block;
+}
+img{
+  position:relative;
+  width:100%;
+  height:100%;
+}
+.imagesect h1{
+  color:#6bffeb;
+}
+video{
+  position:relative;
+  width:100%;
+}
+iframe{
+  Position:relative;
+  Width:100%;
+}
